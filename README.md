@@ -30,6 +30,13 @@ This repository contains the full solution to the Optimy DevOps Engineer Assessm
 
 - **Grafana Cloud Dashboard**:  
   [https://saisharansaireddygari.grafana.net](https://saisharansaireddygari.grafana.net/d/50ddea8f-f33b-4669-94ba-f3aa10dc2776)
+
+> Since the Grafana Cloud dashboard is not publicly accessible, please refer to the screenshot below showing live PHP container logs from Loki:
+
+### Grafana Logs (Loki View)
+
+![PHP Container Logs in Grafana](./grafana/php-container-logs.png)
+
 ---
 
 ## App Overview
