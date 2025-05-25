@@ -126,7 +126,7 @@ Resources:
     Properties:
       InstanceType: t3.micro
       KeyName: !Ref KeyName
-      ImageId: ami-021d9f8e43481e7da  # Ubuntu 22.04 LTS (eu-west-1)
+      ImageId: ami-021d9f8e43481e7da
       SubnetId: !Ref SubnetA
       SecurityGroupIds: [!Ref InstanceSG]
       UserData:
